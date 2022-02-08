@@ -215,11 +215,11 @@ export default {
       padding: 15px;
       font-size: 1.2rem;
       font-weight: bold;
-      color: $kia-polar-white;
+      color: white;
       text-align: left;
       cursor: pointer;
-      background: $kia-midnight-black;
-      border: 1px solid $kia-midnight-black;
+      background: black;
+      border: 1px solid black;
       span {
         padding-right: 10px;
       }
